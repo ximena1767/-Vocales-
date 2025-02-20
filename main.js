@@ -59,8 +59,11 @@ function gotResults(error, results){
             img2.src = 'I.png';
             img3.src = 'O.png';
             img4.src = 'DancingU.gif';
-          }
+          }else{
+            img.src = 'A.png';
+            img1.src = 'E.png';
+            img2.src = 'I.png';
+            img3.src = 'O.png';
+            img4.src = 'U.png';
       }
-    
-
-}
+}}
